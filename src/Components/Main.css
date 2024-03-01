@@ -1,0 +1,83 @@
+.navbar{
+    background-color: #f1f1f1;
+}
+
+.marquee{
+    background-color: #7e909a;
+}
+
+.navbar2{
+    background-color: #488a99;
+    color: #f1f1f1;
+    padding-left: 200px; 
+}
+
+/* .navdrop{
+    color: #f1f1f1;
+} 
+
+.navdrop:hover{
+    background-color: #1c4e80;
+    color: #f1f1f1;
+} */
+
+#dropdown{
+    color: #f1f1f1;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+#dropdown:hover{
+    background-color: #1c4e80;
+    color: #f1f1f1;
+}
+
+.navdropitem:hover{
+    background-color: #1c4e80;
+    color: #f1f1f1;
+}
+
+
+
+/* #submenu-teller{
+    color: #f1f1f1;
+} */
+
+#submenu-teller:hover{
+    background-color:#1c4e80;
+    color: #f1f1f1;
+}
+
+#pills-home-tab, #pills-profile-tab{
+    background-color:#1c4e80;
+    color: #f1f1f1;
+    transition: background-color 0.3s, color 0.3s;
+    margin: 5px;
+}
+
+#pills-home-tab:hover, #pills-profile-tab:hover {
+    background-color:teal;
+    color: #f1f1f1;
+}
+
+.btn{
+    background-color: #488a99;
+    color: #f1f1f1;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.btn:hover{
+    background-color:#1c4e80;
+    color: #f1f1f1;
+}
+
+table, th, td{
+    border: 1px solid #7e909a;
+    margin-top: 30px;
+    margin-right: 20px;
+    /* background-color: #1c4e80; */
+}
+
+#thead{
+    background-color: #1c4e80;
+    color: #f1f1f1;
+}
